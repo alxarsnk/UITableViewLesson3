@@ -1,4 +1,4 @@
-//
+ //
 //  TaggedCollectionViewController.swift
 //  instagramProj
 //
@@ -25,6 +25,7 @@ class TaggedCollectionViewController: UIViewController, UICollectionViewDelegate
     @IBOutlet weak var avaImage: UIImageView!
     @IBOutlet weak var infoView: UIView!
     @IBOutlet weak var taggedViewCollection: UICollectionView!
+  
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -34,6 +35,7 @@ class TaggedCollectionViewController: UIViewController, UICollectionViewDelegate
         editProfileButton.layer.borderWidth = 1
         avaImage.layer.cornerRadius = avaImage.frame.size.width / 2
         avaImage.clipsToBounds = true
+        
     }
 
    

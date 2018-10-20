@@ -48,7 +48,7 @@ class CustomMainCollectionViewController: UIViewController, UICollectionViewDele
         dataArray = [Icon](repeating: Icon(image: #imageLiteral(resourceName: "2pod")), count: 20)
         MainCollectionView.delegate = self
         MainCollectionView.dataSource = self
-        editProfileButton.layer.borderWidth = 1.0
+        editProfileButton.layer.borderWidth = 1
         infoAvaImage.layer.cornerRadius = infoAvaImage.frame.size.width/2
         infoAvaImage.clipsToBounds = true
     }

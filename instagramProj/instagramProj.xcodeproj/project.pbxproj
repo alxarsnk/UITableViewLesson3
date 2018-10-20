@@ -19,8 +19,6 @@
 		1BF2AEB4215FEB6700FAE3F5 /* CustomMainCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BF2AEB3215FEB6700FAE3F5 /* CustomMainCollectionViewCell.swift */; };
 		1BF2AEBA215FF49700FAE3F5 /* TaggedCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BF2AEB9215FF49700FAE3F5 /* TaggedCollectionViewController.swift */; };
 		1BF2AEBC215FF5DA00FAE3F5 /* TaggedCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BF2AEBB215FF5DA00FAE3F5 /* TaggedCollectionViewCell.swift */; };
-		1BF2AEBE216027A200FAE3F5 /* TestNavViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BF2AEBD216027A200FAE3F5 /* TestNavViewController.swift */; };
-		1BF2AEC02160320300FAE3F5 /* MainTapBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BF2AEBF2160320300FAE3F5 /* MainTapBarViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,8 +36,6 @@
 		1BF2AEB3215FEB6700FAE3F5 /* CustomMainCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomMainCollectionViewCell.swift; sourceTree = "<group>"; };
 		1BF2AEB9215FF49700FAE3F5 /* TaggedCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaggedCollectionViewController.swift; sourceTree = "<group>"; };
 		1BF2AEBB215FF5DA00FAE3F5 /* TaggedCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaggedCollectionViewCell.swift; sourceTree = "<group>"; };
-		1BF2AEBD216027A200FAE3F5 /* TestNavViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestNavViewController.swift; sourceTree = "<group>"; };
-		1BF2AEBF2160320300FAE3F5 /* MainTapBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTapBarViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,8 +68,6 @@
 		1B994C99215BE76C0008A08F /* instagramProj */ = {
 			isa = PBXGroup;
 			children = (
-				1BF2AEBF2160320300FAE3F5 /* MainTapBarViewController.swift */,
-				1BF2AEBD216027A200FAE3F5 /* TestNavViewController.swift */,
 				1BF2AEBB215FF5DA00FAE3F5 /* TaggedCollectionViewCell.swift */,
 				1BF2AEB9215FF49700FAE3F5 /* TaggedCollectionViewController.swift */,
 				1BF2AEB3215FEB6700FAE3F5 /* CustomMainCollectionViewCell.swift */,
@@ -166,11 +160,9 @@
 				1B994C9D215BE76C0008A08F /* ViewController.swift in Sources */,
 				1B994CB7215D27720008A08F /* CustomTableViewCell.swift in Sources */,
 				1BF2AEB4215FEB6700FAE3F5 /* CustomMainCollectionViewCell.swift in Sources */,
-				1BF2AEBE216027A200FAE3F5 /* TestNavViewController.swift in Sources */,
 				1B994C9B215BE76C0008A08F /* AppDelegate.swift in Sources */,
 				1B994CAF215BF5510008A08F /* UIViewControllerTapBar.swift in Sources */,
 				1BF2AEBA215FF49700FAE3F5 /* TaggedCollectionViewController.swift in Sources */,
-				1BF2AEC02160320300FAE3F5 /* MainTapBarViewController.swift in Sources */,
 				1B994CB9215D38930008A08F /* CustoTableViewController.swift in Sources */,
 				1BF2AEBC215FF5DA00FAE3F5 /* TaggedCollectionViewCell.swift in Sources */,
 			);

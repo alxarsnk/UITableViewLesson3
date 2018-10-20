@@ -14,7 +14,7 @@ class UIViewControllerTapBar: UITabBarController {
    
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
-        TapBar.frame = CGRect( x: 0, y: 290, width: UIScreen.main.bounds.width, height: 50)
+        TapBar.frame = CGRect( x: 0, y: 280, width: UIScreen.main.bounds.width, height: 50)
       
     }
 
